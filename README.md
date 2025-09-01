@@ -69,9 +69,6 @@
 <div align="center">
   <img src="https://i.gifer.com/14gn.gif" />
 </div>
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI2ZXo0ZzlibzdlMnJ2Nms5aXp6NGJ4OXVxaHM5czQxbHc2ejFjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/al1LxBheEHLhWrSMMz/giphy.gif"/>
-</div>
 
 
 ###
