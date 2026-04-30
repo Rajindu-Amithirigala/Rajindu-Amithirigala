@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Rajindu%20Amithirigala&fontSize=40&fontColor=c9d1d9&fontAlignY=38&desc=18%20y%2Fo%20Undergraduate%20%7C%20Sri%20Lanka&descAlignY=58&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Rajindu%20Amithirigala&fontSize=40&fontColor=c9d1d9&fontAlignY=38&desc=19%20y%2Fo%20Undergraduate%20%7C%20Sri%20Lanka&descAlignY=58&descSize=16&descColor=8b949e" />
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/rajindu-amithirigala)
@@ -86,5 +86,10 @@ interests:
 ---
 
 <div align="center">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F3E4C9&center=true&vCenter=true&width=500&height=30&lines=Goodbye!;Enjoy+the+rest+of+the+day!" alt="Typing SVG" />
+  </a>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
 </div>
